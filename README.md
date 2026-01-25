@@ -1,5 +1,6 @@
-﻿# GT-FTE
-This is repository for GregTech based minecraft modpack - GregTech: Flatter Than Ever
+﻿# GT-FTE-Chinese
+ 
+This is repository for GregTech based minecraft modpack - GregTech: Flatter Than Ever's Chinese Version.
+这里是《格雷科技：前所未平》的中文汉化项目。
 
-This project is in Alpha state, expect bugs and artifacts. And please, remember - Repository is not main place to install the modpack. Use CurseForge launcher for this purpose, if you can.
 
