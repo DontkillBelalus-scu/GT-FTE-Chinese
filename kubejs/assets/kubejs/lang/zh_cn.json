@@ -1,0 +1,83 @@
+{
+    "item.kubejs.ulv_electric_piston": "ULV 电力活塞",
+    "item.kubejs.ulv_robot_arm": "ULV 机械臂",
+    "item.kubejs.ulv_conveyor_module": "ULV 传送带",
+    "item.kubejs.ulv_electric_motor": "ULV 电动马达",
+    "item.kubejs.ulv_electric_pump": "ULV 电动泵",
+
+    "item.kubejs.universal_ulv_circuit": "通用ULV电路",
+    "item.kubejs.universal_lv_circuit": "通用LV电路",
+    "item.kubejs.universal_mv_circuit": "通用MV电路",
+    "item.kubejs.universal_hv_circuit": "通用HV电路",
+    "item.kubejs.universal_ev_circuit": "通用EV电路",
+    "item.kubejs.universal_iv_circuit": "通用IV电路",
+    "item.kubejs.universal_luv_circuit": "通用LuV电路",
+    "item.kubejs.universal_zpm_circuit": "通用ZPM电路",
+    "item.kubejs.universal_uv_circuit": "通用UV电路",
+    "item.kubejs.universal_uhv_circuit": "通用UHV电路",
+    "item.kubejs.universal_uev_circuit": "通用UEV电路",
+    "item.kubejs.universal_uiv_circuit": "通用UIV电路",
+    "item.kubejs.universal_uxv_circuit": "通用UXV电路",
+    "item.kubejs.universal_opv_circuit": "通用OpV电路",
+
+    "item.kubejs.ram_mainframe": "闪存主机",
+    "item.kubejs.ram_stick": "闪存条",
+
+    "item.kubejs.stick_fragments": "木棍碎片",
+    "item.kubejs.simple_knitting_kit": "简陋缝补工具",
+    "item.kubejs.string_mesh_chunk": "小片线筛网",
+
+    "item.kubejs.p_credit": "P点券币",
+
+    "item.kubejs.alfheim_runes": "亚尔夫海姆符文",
+
+    "gtfte.cavum_tenebrae": "§o§7看来这个星球的大气有毒……也许你需要穿某种防护服？",
+    "gtfte.unitas": "§o§7你深吸一口气……闻到了硫磺的气味……？",
+    "gtfte.rima": "§o§7你深吸一口气，发现自己……毫无异常。",
+    "gtfte.chulak": "§o§7你深吸一口气，却发现……一切正常？",
+    "gtfte.abydos": "§o§7你深吸一口气……这地方真是热浪逼人！",
+    "gtfte.dizzy": "§o§7我感到一阵头晕……",
+    "gtfte.overworld": "§o§7旅途结束后，你感到一阵轻松。",
+
+    "gtfte.tooltip.material.infinity": "<rainb>整个宇宙中密度最大的物质，塑造为%s<rainb>。</rainb>",
+
+    "gtfte.name.universal_circuit": "%s 通用电路",
+    "gtfte.tooltip.universal_circuit": "§7你感受到了 %s 的力量！",
+
+    "gtfte.name.fuel_rod": "燃料棒 (%s)",
+
+    "gtfte.name.primitive_maintenance_hatch": "原始维修舱口",
+    "gtfte.name.ionizing_module": "电离模块",
+    "gtfte.tooltip.bedrock_crusher": "非大型矿机",
+    "gtfte.tooltip.energizer": "这可不是涡轮增压器！",
+    "gtfte.tooltip.daycycle_simulation_chamber": "植物人生模拟器",
+
+    "gtfte.tooltip.primitive": "仅支持§8超低压§r能量舱。",
+    "gtfte.tooltip.ulv_component": "§7强度不足，无法作为护甲使用……",
+
+    "gtfte.tooltip.alchemical_crucible_1": "炼药锅 Pro Max",
+    "gtfte.tooltip.alchemical_crucible_2": "§7电压等级每提升一级（超过§rLV§7），温度增加§r75K§7。",
+
+    "gtfte.components.heat_capacity": "热容：%s§cK§r",
+    "gtfte.components.parallels": "默认并行数：%s§r",
+
+    "gtfte.tooltip.etbf": "具备电力高炉的所有调整项",
+
+    "gtfte.tooltip.defaultParallel": "默认并行数：§5 %s §r",
+
+    "gtfte.ionizing_cleanroom": "§5电离模块",
+
+    "gtfte.tagprefix.ingot": "锭",
+    "gtfte.tagprefix.plate": "板",
+    "gtfte.tagprefix.tiny_dust": "小撮粉",
+    "gtfte.tagprefix.small_dust": "小堆粉",
+    "gtfte.tagprefix.dust": "粉",
+    "gtfte.tagprefix.double_plate": "双层板",
+    "gtfte.tagprefix.gear": "齿轮",
+    "gtfte.tagprefix.small_gear": "小型齿轮",
+    "gtfte.tagprefix.nugget": "粒",
+    "gtfte.tagprefix.ring": "环",
+    "gtfte.tagprefix.bolt": "螺栓",
+    "gtfte.tagprefix.screw": "螺丝",
+    "gtfte.tagprefix.rod": "杆"
+}
